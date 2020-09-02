@@ -8,7 +8,7 @@ clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
 footnote: Specification
-specification: Specification
+specification: Comment
 details: Details
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
